@@ -2,5 +2,5 @@
 
 ## 概要
 
-CodeGritのGitコースでのForkとPull Requestの練習用のリポジトリです。
-
+CodeGrit の Git コースでの Fork と Pull Request の練習用のリポジトリです。
+練習
