@@ -4,3 +4,5 @@
 
 CodeGritのGitコースでのForkとPull Requestの練習用のリポジトリです。
 
+さしすせそ
+たちつてと
